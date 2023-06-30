@@ -395,7 +395,6 @@ body {
   text-align: center;
   display: flex;
   flex-direction: column;
-  align-items: center;
 }
 .cards__img {
   max-width: 400px;
@@ -417,12 +416,12 @@ body {
 .card__plus-btn {
   height: 2rem;
   width: 2rem;
-  margin: auto 0;
+  margin: auto -1rem;
 }
 .card__sub-btn {
   height: 2rem;
   width: 2rem;
-  margin: auto 0;
+  margin: auto -0.2rem;
 }
 .card__random-btn {
   height: 2rem;
@@ -443,7 +442,7 @@ body {
 }
 @media (max-width: 885px) {
   .palo__title {
-    font-size: 1.9rem;
+    font-size: 1.7rem;
   }
   .palo__container {
     max-width: 80vw;
