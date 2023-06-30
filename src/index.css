@@ -1,0 +1,519 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  max-width: 100%;
+  height: 100%;
+  background-color: #050526;
+}
+/*** HOME view styles */
+body {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home__animation {
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  border-raduis: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-image: url("image.svg");
+  background-size: cover;
+  background-position: center;
+}
+
+.home__aimation-title {
+  font-size: 8rem;
+  color: white;
+  text-align: center;
+}
+
+.form__container {
+  text-align: center;
+  margin-top: 120px;
+  margin-bottom: 150px;
+}
+
+.form__title {
+  color: white;
+  font-size: 2rem;
+}
+
+.form-input {
+  padding: 2.5% 2%;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  width: 70%;
+  font-size: 1.2rem;
+}
+
+.form__container-btn {
+  padding: 2.5% 4%;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 1.2rem;
+  border: 0.1px solid transparent;
+}
+.form__container-btn:hover {
+  background-color: #50296c;
+  color: #e7ebda;
+  border: 0.1px solid white;
+}
+.text-error {
+  color: #e9f5f9;
+}
+.cohete__container {
+  max-width: 70px;
+  position: relative;
+  left: -45%;
+}
+.cohete__img {
+  max-width: inherit;
+}
+
+.planeta__container {
+  max-width: 70px;
+}
+.planeta__img {
+  max-width: inherit;
+  position: relative;
+  top: 185px;
+  left: 574%;
+}
+
+.galaxy__container {
+  max-width: 70px;
+  position: relative;
+  top: 10%;
+  left: 26%;
+}
+
+.galaxy__img {
+  max-width: inherit;
+}
+.container__input {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+}
+.welcome__title {
+  color: #a667a0;
+}
+.tarot__opacity {
+  opacity: 0;
+}
+
+@media (max-width: 518px) {
+  .home__aimation-title {
+    font-size: 6rem;
+  }
+  .form__title {
+    font-size: 1.3rem;
+  }
+  .planeta__img {
+    top: 160px;
+    left: 452%;
+  }
+  .planeta__container {
+    max-width: 65px;
+  }
+}
+/*** MENU view styles */
+
+.zodiaco__container {
+  display: flex;
+  gap: 7vh;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.menu__title {
+  margin: 3rem;
+  font-size: 8rem;
+}
+
+.virgo__container {
+  max-width: 70px;
+}
+.virgo__img {
+  max-width: inherit;
+}
+.libra__container {
+  max-width: 70px;
+}
+.libra__img {
+  max-width: inherit;
+}
+.piscis__container {
+  max-width: 60px;
+}
+.piscis__img {
+  max-width: inherit;
+}
+.capricornio__container {
+  max-width: 80px;
+}
+.capricornio__img {
+  max-width: inherit;
+}
+.sagitario__container {
+  max-width: 70px;
+}
+.sagitario__img {
+  max-width: inherit;
+}
+.cancer__container {
+  max-width: 70px;
+}
+.cancer__img {
+  max-width: inherit;
+}
+.welcome__container {
+  display: flex;
+  color: white;
+  font-size: 1.5rem;
+  flex-direction: column;
+  margin: 0 auto;
+  text-align: center;
+}
+.menu__welcome-title {
+  color: #4fe49c;
+}
+.welcome__all-title {
+  margin-bottom: 10vh;
+}
+.menu__cards-container {
+  max-width: 900px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  grid-template-rows: auto auto auto;
+}
+.copas__container {
+  grid-column: 2/4;
+  grid-row: 1/2;
+  background: rgb(245, 147, 207);
+  background: linear-gradient(
+    270deg,
+    rgba(245, 147, 207, 0.8022284122562674) 11%,
+    rgba(255, 222, 89, 0.8440111420612814) 94%
+  );
+  width: 430px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 2px solid white;
+}
+.copas__container:hover {
+  border: 2px solid #4fe39c;
+  color: #e7e6e8;
+}
+
+.bastos__container {
+  background: rgb(255, 109, 109);
+  background: linear-gradient(
+    270deg,
+    rgba(255, 109, 109, 0.8523676880222841) 11%,
+    rgba(161, 114, 255, 0.8231197771587744) 94%
+  );
+  grid-column: 2/3;
+  grid-row: 2/3;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  border: 2px solid white;
+}
+
+.bastos__container:hover {
+  border: 2px solid #4fe39c;
+  color: #e7e6e8;
+}
+.espadas__container {
+  background: rgb(81, 112, 255);
+  background: linear-gradient(
+    270deg,
+    rgba(81, 112, 255, 0.754874651810585) 11%,
+    rgba(255, 102, 196, 0.7562674094707521) 94%
+  );
+  border-radius: 10px;
+  cursor: pointer;
+  border: 2px solid white;
+}
+
+.espadas__container:hover {
+  border: 2px solid #4fe39c;
+  color: #e7e6e8;
+}
+.pentaculos__container {
+  background: rgb(94, 139, 199);
+  background: linear-gradient(
+    270deg,
+    rgba(94, 139, 199, 0.8605769230769231) 11%,
+    rgba(220, 162, 236, 0.8557692307692308) 94%
+  );
+  color: white;
+  grid-column: 2/4;
+  grid-row: 3/4;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 2px solid white;
+}
+.pentaculos__container:hover {
+  border: 2px solid #4fe39c;
+  color: #e7e6e8;
+}
+.arc-mayores__container {
+  background: rgb(77, 251, 167);
+  background: linear-gradient(
+    360deg,
+    rgba(77, 251, 167, 0.8281906512605042) 0%,
+    rgba(158, 109, 255, 0.836594012605042) 100%
+  );
+  max-width: 150px;
+  grid-column: 1/2;
+  grid-row: 1/4;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  border: 2px solid white;
+  height: 330px;
+}
+.arc-mayores__container:hover {
+  border: 2px solid #4fe39c;
+  color: #e7e6e8;
+}
+@media (max-width: 525px) {
+  .virgo__container {
+    max-width: 50px;
+  }
+
+  .libra__container {
+    max-width: 50px;
+  }
+  .piscis__container {
+    max-width: 50px;
+  }
+
+  .capricornio__container {
+    max-width: 60px;
+  }
+
+  .sagitario__container {
+    max-width: 50px;
+  }
+
+  .cancer__container {
+    max-width: 50px;
+  }
+}
+
+@media (max-width: 666px) {
+  .menu__title {
+    margin: 3rem;
+    font-size: 4.5rem;
+  }
+}
+@media (max-width: 833px) {
+  .zodiaco__container {
+    display: flex;
+    gap: 2vh;
+  }
+}
+@media (max-width: 630px) {
+  .menu__cards-container {
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    width: 370px;
+    height: 550px;
+  }
+  .bastos__container {
+    grid-column: auto;
+    grid-row: auto;
+  }
+  .arc-mayores__container {
+    grid-column: 1/3;
+    grid-row: auto;
+    max-width: 100%;
+    height: auto;
+  }
+  .espadas__container {
+    grid-column: auto;
+    grid-row: auto;
+  }
+  .copas__container {
+    grid-column: auto;
+    grid-row: auto;
+    width: auto;
+  }
+  .pentaculos__container {
+    grid-column: auto;
+    grid-row: auto;
+  }
+  .welcome__container {
+    font-size: 1.2rem;
+    margin-top: 2.5rem;
+  }
+}
+
+/*** Palos generals styles ***/
+
+.palos__sections {
+  color: white;
+  max-width: 80vw;
+  margin: 0 auto;
+  background: rgb(5, 5, 38);
+  background: linear-gradient(
+    360deg,
+    rgba(5, 5, 38, 1) 75%,
+    rgba(90, 66, 128, 1) 89%,
+    rgba(221, 180, 255, 1) 100%
+  );
+}
+.palo__title {
+  font-size: 3rem;
+  margin: 1.9rem;
+  color: #222221;
+}
+.palo__container {
+  text-align: center;
+  max-width: 60vw;
+  margin: auto;
+}
+.palo__principal-div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: 1.1rem;
+}
+.cards__container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cards__img {
+  max-width: 400px;
+  margin: 1rem 2rem;
+  border-radius: 3rem;
+  border: 1px solid white;
+  min-height: 650px;
+}
+.info__card-container {
+  width: 50vw;
+  margin-left: 100px;
+  margin-top: 60px;
+  width: 550px;
+  line-height: 1.8;
+}
+.card__layout {
+  display: flex;
+}
+.card__plus-btn {
+  height: 2rem;
+  width: 2rem;
+  margin: auto 0;
+}
+.card__sub-btn {
+  height: 2rem;
+  width: 2rem;
+  margin: auto 0;
+}
+.card__random-btn {
+  height: 2rem;
+  width: 2rem;
+  margin: 1rem;
+}
+.random__btn {
+  width: 50px;
+  cursor: pointer;
+}
+.plus__btn {
+  width: 50px;
+  cursor: pointer;
+}
+.sub__btn {
+  width: 50px;
+  cursor: pointer;
+}
+@media (max-width: 885px) {
+  .palo__title {
+    font-size: 1.9rem;
+  }
+  .palo__container {
+    max-width: 80vw;
+  }
+  .copas__info {
+    font-size: 0.5rem;
+  }
+  .random__btn {
+    position: relative;
+    left: 28vw;
+  }
+  .card__name {
+    margin-top: 0;
+  }
+}
+@media (max-width: 766px) {
+  .info__card-container {
+    margin-left: 0;
+    margin-top: 0;
+  }
+  .cards__container {
+    align-items: self-start;
+  }
+}
+/* Copas ***/
+
+.copas__info {
+  font-size: 1.2rem;
+  margin: 5 rem;
+  line-height: 1.5;
+}
+
+@media (max-width: 885px) {
+  .copas__info {
+    font-size: 1rem;
+  }
+  .clave__container p {
+    font-size: 1rem;
+  }
+  .significado__container p {
+    font-size: 1rem;
+  }
+  .palo__principal-div {
+    justify-content: stretch;
+  }
+  .cards__img {
+    width: 55vw;
+    min-height: 35vh;
+  }
+  .card__layout {
+    width: 1px;
+  }
+}
+/** Arcanos Mayores**/
+
+.clave__container {
+  height: 340px;
+}
+
+.significado__btn {
+  padding: 5px;
+  font-size: 1.2rem;
+  border-radius: 7px;
+  width: 145px;
+  height: 45px;
+  background: #1e1e3c;
+  color: white;
+  border: none;
+}
+.significado__btn:hover {
+  cursor: pointer;
+  background-color: #353550;
+}

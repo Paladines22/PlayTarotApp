@@ -1,0 +1,581 @@
+{
+  "may": [
+    {
+      "img": "ElLoco.jpg",
+      "name": "El Loco",
+      "number": "0",
+      "propiedad": "Arcano Mayor",
+      "clave": "El loco se halla al principio de su vuaje esspiritual y magico. Es lo bastante joven abierto y atrevido para dar un salto de fé. La rosa blanca simbimboliza su inocensia y confianza. Asi como su nuevo comienzo. El perro que aparece a su lado, lleno de energia, es un compañero perfecto para el viajero inexperto. ",
+      "significado": "La primera carta de los arcanos mayores es un ejemplo, de alguien que esta persiguiendo sus sueños, puede encontrarse al inicio de su camino espiritual. El loco nos alienta a atrevernos a ser mas abiertos y a disfrutar el viaje. El loco te dice sonriendo que tengas confianza y te arriesges. Es la carta del salto de fe, atrevete a romper moldes. Hay un mundo inmenso y magico afuera, sal a explorarlo. "
+    },
+    {
+      "img": "1-ElMago.JPG",
+      "name": "El Mago",
+      "number": "I",
+      "propiedad": "Arcano Mayor",
+      "clave": "Vemos a El Mago detras de un altar y con un pentagrama en el cuello y simbolos magicos bordados en la tunica. Con la vara que lleva en la mano dibuja sobre el una lemniscata, el simbolo del infinito, que nos recuerda: como es adentro es afuera. Con la otra mano apunta hacia abajo, a la tierra, para indicar otro dicho magico clasico: como es arriba es abajo. El mago domina los cuatro elementos de la naturaleza, al combinar su poder personal con ellos hace magia simplemente por la fuerza de su voluntad ",
+      "significado": "Cuando aparece esta carta en una lectura te indica que conectes con tu propia magia, para descubrir las respuestas que estas buscando, que trabajes en equilibrio con los elementos y poderes de la naturaleza para crear. La magia te rodea y el mundo natural se encuentra en todas partes...El mago de reta a buscarlas. Conecta con esta energia elemental y aprovecha sus poderes. Existimos en todos los planos: el astral - espiritual, el energetico  y el fisico. "
+    },
+    {
+      "img": "2-LaSacerdotisa.JPG",
+      "name": "La Sacerdotisa",
+      "number": "II",
+      "propiedad": "Arcano Mayor",
+      "clave": "La gran sacerdotiza que tienes delante de ti, es poderosa, mistica, sabia y autoritaria. Esta sentada en su trono con actitud reflexiva, las estrellas del cosmos brillan a sus pies. No sientre inclinacion por la luz o la oscuridad es una figura neutral. Sus manos sostienen un rollo de pergamino que indican el conocimiento y salvia en flor que representa la sabiduria.",
+      "significado": "Cuando esta carta aparece en una lectura con frecuencia marga un tiempo de iniciacion y aprendizaje. L agran sacertiza te propone un desafio. Esta carta es un recordatorio para que tranquilamente y en silencio busques el conocimiento oculto, y mires en tu interior. Usa tu intusion y cree en tus instintos. Debes acordarte siempre de usar tu magia con cuidado y desde un estado de neutralidad."
+    },
+    {
+      "img": "3-LaEmperatriz.JPG",
+      "name": "La Emperatriz",
+      "number": "III",
+      "propiedad": "Arcano Mayor",
+      "clave": " La empreratriz esta sentada en un trono dorado rodeado de naturaleza, y embelllecido con figuras de rosas de cindo petalos y trigo. La flor de cindo petalos crea un pentagrama natural y las flores y las espigas de trigo la conectan a las antiguas diosas de meter e Isis. Simboliza la fertilidad. Es la gran Diosa Madre, y las doce estrellas que forman un halo al rededor de su cabeza representa los signos del zodiaco. ",
+      "significado": "Esta es la carta de la maternidad, y la fertilidad. Es un mensaje de la diosa madre que nos exhorta a respetar la fuerza y el poder de la naturaleza, y la capacidad del cuerpo para reproducirse, tambien indica una oportunidad de dar a luz nuevas y creativas ideas"
+    },
+    {
+      "img": "4-ElEmperador.JPG",
+      "name": "El Emperador",
+      "number": "IV",
+      "propiedad": "Arcano Mayor",
+      "clave": "El sabio emperador sostiene un cetro coronado por una cruz egipcia en la mano derecha. En la izquierda sostienen una esfera. Viste una capa purpura que representa su soberania. las monta;as que hay tras el simbolizan su fuerza y determinacion. El emperador esta observando la escena y planteandose sus opciones para el futuro. es un gobernante sabio y vondadoso, curiosamente no tiene armas; en su lugar usa el poder de su sabiduria y experiencia para mantener la paz. ",
+      "significado": " Esta carta puede simbolizar a un cabeza de familia, o a una persona responzable y equilibrada. Tambien puede representar a tu jefe o a tu padre. te dice que deberias analizar con calma tu situacion actual, lo mismo que esta haciendo el emperador, y plantearte cuidadosa mente las opciones que tienes.La carta aparecera en una lectura cuando vas a lograr un ascenso en el trabajo. Tambien simboliza tu liderazgo."
+    },
+    {
+      "img": "5-ElHierofante.JPG",
+      "name": "El Sumo Sacerdote",
+      "number": "V",
+      "propiedad": "Arcano Mayor",
+      "clave": "El sumo sacerdote esta sentado en un banco de piedra en el templo, es un sabio. Lleva una tunica real y luce orgullozamente sobre el pecho su pentagrama de plata, un simbolo de poder magico y proteccion personal. La posicion de la mano decha y el baston de madera son simbolos clasicos del tarot, representan el equilibrio entre los mundos de lo fisico y lo espiritual. dos llaves flotan en el aire delante del sumo sacerdote y simbolizan lo divino femenino y lo divino masculino",
+      "significado": "Se relaciona con la necesidad de asesoramiento legal. Asi mismo puede indicar el comienzao de una carrera, la continuacion de la educacion. El sumo sacerdote es un consejero sabio y pasiente. Es un maestro no te da todas las respuestas a tus preguntas, mas bien te ayuda a averiguar donde debes mirar para descubrir tu propia verdad."
+    },
+    {
+      "img": "6-LosAmantes.JPG",
+      "name": "Los Enamorado",
+      "number": "VI",
+      "propiedad": "Arcano Mayor",
+      "clave": "Un par de jovenes amantes, comparten un momento intimoo en un bello jardin primaveral con arboles florecidos. Un angel, que representa la armonia, surgido de las nubes bendice la union. La carta de los amantes habla de las decisiones que tomamos y del amor, es una representacion del equilibrio de los contrarios y del poder de la atracion. ",
+      "significado": "Los amantes es una carta de amores y decisiones. Representa el poder del amor el deseo, el destino, el romance y la atracion, celebra las dificultades superadas para que los amantes puedan estar juntos. Es un simbolo del destino. Es ahi para mostrarnos que nuestras elecciones pueden afectar a nuestro futuro, El angel nos advierte que elijamos con sensatez."
+    },
+    {
+      "img": "7-LaCarroza.JPG",
+      "name": "El Carro",
+      "number": "VII",
+      "propiedad": "Arcano Mayor",
+      "clave": "Un auriga protegido con una armadura va de pie con su carro de oro y plata haciendo correr a los caballos por los cielos y a traves de las nubes. El mago alza una vara y con la otra parece dirigir los dos caballos que tiran del carro solo con su voluntad, ya que no llevan riendas. Esto muestra que tiene el control de su poder personal y de la fuerza magica. Esta es la unica carta de la baraja que hay dos caballos, el negro representa el subconsiente. El blanco simboliza la mente consiente. ",
+      "significado": "Esta carta habla de una victoria que ha supuesto un gran esfuerzo. Trata sobre la confianza en uno mismo, el control, la motivacion y la determinacion de triunfar. Descubre tu propio poder y veras cumplirse tus objetivos, desapareceran los obtaculos y las trabas. Cuando el carro inrrumpe en una lectura te dice que combines tu magia con la disciplina mental y la tenacidad. "
+    },
+    {
+      "img": "11-LaFuerza.JPG",
+      "name": "La Fuerza",
+      "number": "VIII",
+      "propiedad": "Arcano Mayor",
+      "clave": "Una mujer de cabellos castaños esta tranquilamente sentada al amanecer con un gran leon a su lado. Ella sonrie serena y capaz de controlar al animal solamente con su actitud. La mujer esta coronada con grandes hojas de roble que representan la fuerza. Esto nos lleva a preguntarnos quien tiene la fuerza en esta carta, ella con su fuerza serena o el animal por ser tan fuerte como para aplacar sus impulsos mas salvajes, tener auto control y permitirse gozar de la experiencia",
+      "significado": "Cuando aparece en una lectura supone a un recordario de que no es necesario recurrir a la fuerza bruta en las circunstancias actuales, si embargo si debemos hacer un uso inteligente de la fuerza interior, el auto control y la fuerza del caracter."
+    },
+    {
+      "img": "9-ElHermitano.JPG",
+      "name": "El Ermitaño",
+      "number": "IX",
+      "propiedad": "Arcano Mayor",
+      "clave": "Un viejo mago sabio esta buscando una vision. Se ha aislado, se ha marchado solo, y se ha impuesto a si mismo, la prueba de revelar los misterios. La brillante estrella de 6 puntas en su lampara simboliza el equilibrio entre las energias masculinas y femeninas y nos recuerda que debemos buscar nuestra verdad espiritual tanto dentro como fuera de nosotros. Tambine representa la sabiduria que todos llevamos dentro, cuando la dejamos brillar, puede revelarse la luz de la sabiduria ",
+      "significado": "La carta del Hermitaño habla de tomarse intensionadamente un tiempo de descanso, quedarse a solas y mirar dentro de uno mismo. Cuando aparece en una lectura es una señal para hacer una pausa en tu vida, para descansar y recuperarte. Es el momento para buscar tu visión, pata reflexion, la intuicion, la meditacion y el crecimiento personal."
+    },
+    {
+      "img": "10-LaRuedaDeLaFortuna.JPG",
+      "name": "La Rueda de la Fortuna",
+      "number": "X",
+      "propiedad": "Arcano Mayor",
+      "clave": "Un pentagrama plateado esta rodeado por la rueda de la fortuna. Esta carta evoca las 4 estaciones. El elemento tierra viene representado por el pentaculo y el acebo la clasica planta de navidad. En la parte inferior vemos las flores rosadas de cerezo, que representan la primavera asociada con el aire. En la parte inferior hay hojas de roble, que simboliza el elemento fuego. En la parte superior vemos una mezcla de hojas anaranjadas de arce que esta alineado con la estacion del otoño ligado al elemento agua. ",
+      "significado": "Esta carta simboliza la magia de las 4 estaciones. Cuando aparece en una lectura es para decirte que trabajes con las energias y los ciclos de la naturaleza. Esto significa descanso e introspeccion en invierno: nuevos comienzo crecimiento sy oportunidades en primavera: energia emocion y generocidad en verano, yy abundancia y recordatorios para que en el otoño te prepares recolectes y recuerdes, "
+    },
+    {
+      "img": "8-LaJusticia.JPG",
+      "name": "La Justicia",
+      "number": "XI",
+      "propiedad": "Arcano Mayor",
+      "clave": "La Diosa griega de la justicia Themis, esta sentada en su templo. La espada de doble filo y la balanza que sostiene indica la necesidad de conservar el equilibrio, incluso recurriendo a la fuerza. Las esmeraldas de su corona fomentan la sabiduria. La justicia nos recuerda la ley de karma y la de causa y efecto. Ha llegado el momento de sopesar tus opciones y valorar como estas actuando en la vida ",
+      "significado": "Cuando la Justicia aparece en una lectura, preguntate a ti mismo en donde hay desequilibrio y que tipo de justicia estas buscando. Que te parece injusto en tu vida?. Que acciones has realizado para llegar a la situacion en la que te encuentras?. Esta carta puede presentar asuntos legales y un posible juicio. Indica que que el juego limpio, la honestidad, la armonia y el equilibrio haran muy pronto su aparicion. "
+    },
+    {
+      "img": "12-ElColgado.JPG",
+      "name": "El Colgado",
+      "number": "XII",
+      "propiedad": "Arcano Mayor",
+      "clave": "Un joven de semblante sereno cuelga bocabajo suspendido de un fresno por el pie derecho. En la tradicion del paganismo nórdico, el árbol del mundo sustenta la totalidad del universo. El cuervo es un totem del dios Odin, y simboliza la iniciacion, los secretos y la profecía. Lo mismo que Odin cuelga del arbol del mundo para conseguir el conocimiento de la runas, tambien El Colgado encuentra sus respuestas en el fresno durante esta fase de transición",
+      "significado": "Esta carta nos invita a mirar las cosas desde otra perspectiva. Desprendete de la iusion del control , ponlo todo del reves y mira con atencion la leccion que tienes delante de ti. Relajate y se paciente; quiza no sea fácil, pero luchar contra los cambios de tu vida solo crea mas problemas."
+    },
+    {
+      "img": "13-.JPG",
+      "name": "La Muerte",
+      "number": "XIII",
+      "propiedad": "Arcano Mayor",
+      "clave": "Casi nunca simboliza la muerte fisica; mas bien lo que anuncia es un cambio radical en la vida del consultante. Las llamas de color amarillo verdoso en la calabera  representan la energia y el poder la mente. Esta carta anuncia la transformacion anornado con el numero trece (numero de lunas llenas que hay en un año)y con una flor, una rosa blanca de cinco petalos que simboliza los ciclos naturales de la vida. El niño representa la esperanza. ",
+      "significado": "Esta carta simboliza el cambio. Para que algo nuevo crezca, hay que desprenderse de algo viejo. Suele aparecer en las lectura para embarazadas. Tambien otros finales y principios importantes de tu vida: nacimiento, matrimonio, nuevo trabajo, entrar a la universidad, mudarse, etc. Un modo de vida desaparece, creando un espacio para que emerja un nuevo principio"
+    },
+    {
+      "img": "14-LaTemplanza.JPG",
+      "name": "La Templanza",
+      "number": "XIV",
+      "propiedad": "Arcano Mayor",
+      "clave": "De pie junto a la orilla del agua, Iris, la Diosa griega del arcoíris, mira al frente con sus alas doradas extendidas. Su tunica tiene un triagulo dorado en el corpiño, que significa equilibrio y creatividad. Uno de sus pies esta en la tierra, mientras que el otro esta en el agua. No esta en el agua ni en la tierra, sino en un lugar encantado que se encuentra entre ambos mundos ",
+      "significado": "Es momento de ser comedido, de mostrar algo más de tacto que de constumbre.  Representa la mezcla de distintos elementos mágicos para crear algo nuevo, lo mismo que la lluvia y el sol crean un arcoíris. Simboliza la alquimia personal de una transformación espiritual. Ahora es el momento de trabajar para sanar tu ser espiritual, para descubrir el equilibrio apropiado en tu vida."
+    },
+    {
+      "img": "15-ElDiablo.JPG",
+      "name": "La Sombra",
+      "number": "XV",
+      "propiedad": "Arcano Mayor",
+      "clave": "la sombra muestra lo que sucede cuando el miedo y el panico se apoderen de ti. En la carta se ve una pareja asustada intentando escapar de esta oscura y tenebrosa figura. Correr y esconderse de esta criatura no les ayuda, en lugar de eso deben volverse hacia ella enfrentarse a sus miedos y no dejar que las situaciones y la gente los asusten o hagan sentir mal. Enfrentate a tus adversarios y lucha con honor e integridad y saldras victoriozo",
+      "significado": "Esta carta simboliza que estas dejando que alguien o alguna situacion tenga poder sobre ti. Rompe esas cadenas y deja atras las sombras. Deja de darles tu poder. Lo importante es recordar, que puedes liberarte de tu reaccion cuando quieras. A llegado el momento de aceptar esa sombra de tu personalidad, y mirar cara a cara tus miedos. Tienes que hacerte cargo de eso que te esta frenando. "
+    },
+    {
+      "img": "16-LaTorre.JPG",
+      "name": "La Torre",
+      "number": "XVI",
+      "propiedad": "Arcano Mayor",
+      "clave": "La carta de la torre nos habla de una revelacion sensacional, o de un cambio repentino de planes, la torre se alza en una montaña rodeada por un cielo tormentoso y oscuro. Un rayo la golpea, derribando la corona que la cubria. Se ven llamas en el interior, un fuego que purifica y trasnforma. La torre simboliza nuestras ambiciones, mientras que la corona representa el ego. El relampago indica que hay un momento de inspiracion y que la brillante luz de la verdad aclarara cualquier situacion. ",
+      "significado": "Esta carta habla de una revelacion, o de un incidente que cambia por completo la manera como te vez a ti mismo y la gente que te rodea. Se desvelan secretos e impactantes. Para el ego puede ser un duro golpe, pero sobreviviras a la caida. Ahora que toda esa presion acumulada salio de la torre, el fuego la purificara y la ttransformara por dentro. El cambio se aproxima y va a ser radical. "
+    },
+    {
+      "img": "17-LaEstrella.JPG",
+      "name": "La Estrella",
+      "number": "XVII",
+      "propiedad": "Arcano Mayor",
+      "clave": "La diosa estrella esta desnuda en la orilla. Un chorro de agua cae en la tierra, representando la sanacion fisica, mientras que el de la otra jarra vuelve a caer en el agua, simbolizando la sanacion espiritual. una gran estrella brilla en el cielo nocturno, rodeada por otras 7 mas pequeñas, cada una de ellas con 8 rayos esto es un simbolo de sanacion y un distintivo de la diosa venus. te dicen que persigas tu sueños, que trabajes con la marea y la energia serena de las estrellas. ",
+      "significado": "La estrella simboliza la esperanza, la paz interior, la creatividad y la sanacion. Cuando esta carta aperece en una lectura, es señal que la ssanacion fisica y emocional va a producirsepronto. Manten la esperanza, persigue tus sueños y tus deseos seran concedido. "
+    },
+    {
+      "img": "18-LaLuna.JPG",
+      "name": "La Luna",
+      "number": "XVIII",
+      "propiedad": "Arcano Mayor",
+      "clave": "Hecate la hechicera esta en medio de una encrucijada, rodeada por la niebla, sosteniendo en alto una antorcha. Es una mujer poderosa que ha adquirido un gran conocimiento y sabiduria en su vida. El trio de lobos representan nuestro lado mas salvaje. Nos muestra que hay mas cosas que ver que lo que en un principio nos podriamos imaginar. La magia esta en todas partes, incluso en los lugares insospechados. Que te revelaran Hecate y la luz de la luna?",
+      "significado": "Esta es la carta de la magia de la luna menguante, la intuision y las falacias. Tambien puede representar un desarrollo en los poderes psiquicos. Revela que la gente y las situaciones no son siempre lo que parecen. Tienes que mirar con mucha atencion a lo que crees que estas viendo. Imboca tus gias y a Hecate para ver mas alla de la niebla y reconxocer la verdad. "
+    },
+    {
+      "img": "19-ElSol.JPG",
+      "name": "El Sol",
+      "number": "XIX",
+      "propiedad": "Arcano Mayor",
+      "clave": "Un niño rubio va montado a caballo por un campo de bellisimos girasoles. El encarna la ilusion el encanto y la alegria. los girasoles en el lenguaje de las flores simbolizan la fama, el exito y el aprecio de los demas. En muchas mitologias los caballos blancos representan el amanecer, la vida, la luz y la iluminacion. Este arcano mayor esta asociado al porder personal, y la celebracion de los equinoccios y  de los solsticios.",
+      "significado": "Esta es una de las cartasa mas afortunadas, trae buenos presagios, buena suerte logros creatividad y grandes avances. El exito te pertenece, espera tiempos mas felices, buena salud energia y vitalidad. Concentra ese magnetismo para ver hasta donde te lleva. Todo esta yendo a tu favor, de manera que agarrate y disfruta el viaje.  "
+    },
+    {
+      "img": "20-ElJuicio.JPG",
+      "name": "El Karma",
+      "number": "XX",
+      "propiedad": "Arcano Mayor",
+      "clave": "Tres personas han unido sus manos y las alzan celebrando, el momento en que culmina el eclipse solar. Estam delante de un circulo magico, en el que unas antorchas iluminan el area ceremonial. En la distanciahay un campo verde y montañas, representan pensamientos abstractos.  El eclipse nos recuerda que aqui estan actuando fuerzas que son mas fuertes que tu, el eclipse solar total, es un simbolo de los milagros y la magia. ",
+      "significado": "Esta carta nos muestra que hay que respetar los ciclos y el cambio, y que todo sucede por algun motivo. Es ahora cuando debes tomar una decision importante, lo que elijas hoy dara forma a tu mañaba; ten en cuenta que eres tu quien crea tu propio karma. "
+    },
+    {
+      "img": "21-ElMundo.JPG",
+      "name": "El Mundo",
+      "number": "XXI",
+      "propiedad": "Arcano Mayor",
+      "clave": "La carta del mundo simboliza el final del viaje del loco. Ha pasado por todos los misterios de los arcanos mayores y su recorrido a finalizado. El loco aparece en la esquina superior, ahora que completado su viaje magico es mas viejo y mas sabio. En las otras tres esquinas tenemos representaiciones de los dones que ha recibido, mientras realizaba su viaje. Un agilla dorada representa los dones de la inteligencia, valor y la confianza. El leon simboliza la fuerza, la pasion y el renacimiento. ",
+      "significado": "Cuando esta carta aparece en una lectura, es señal de haber dominado lecciones espirituales. Se puede disfrutar de una sensacion de libertad y armonia. Ahora se podra hacer un buen uso del conocimiento, de la fuerza y la comprension espiritual recien adquiridos. Simboliza un renacer personal."
+    }
+  ],
+  "cups": [
+    {
+      "name": "As de copas",
+      "img": "cupAs.jpg",
+      "clave": " Sobre la superficie de un lago flota el As de copas, esta rodeada por abundantes flores. El agua rebosa de ella en cuatro chorros, que se derrama por el borde y cae al lago devolviendo el agua a su origen. la copa Ocaliz ha sdo siempre un simbolo consagrado de lo divino femenino. Se considera el utero del que surge toda la vida, el As de copas tambien simboliza las oportunidades como caidas del cielo, asi como el crecimiento emocional y los dones que esto conyeba. ",
+      "significado": " Habla de nacimiento crecimiento, amor y clarividencia. Aparece cuand se esta a punto de anunciar o confirmar un embarazo, aunque no trata solo del nacimiento fisico. Simboliza boda matrimonio y relaciones saludables, es tambien un simbolo de crecimiento emocional y sanacion. observa la superficie de esta revosante copa... Que nuevas maravillas estan a punto de nacer en tu mundo.",
+      "number": "|"
+    },
+    {
+      "name": "Dos de copas",
+      "img": "cupDos.jpg",
+      "clave": "Hay un hombre y una mujer delante de un hermoso lago de aguas tranquilas y brillantes. Estan el uno frente al otro sonriendo felices, sus tunicas tinen tonalidades acuosas azules y verdes, evocando el elemento agua que rige esta carta. Ambos tienen una girnalda o corona de flores en el pelo, hecha de violetas rosas blancas pensamientos blancos y morados y hiedra de un verde intenso.",
+      "significado": "El dos de copas representa las relaciones de pareja. Simboliza el equilibrio y la igualdad. Aqui se da una union magica que enlaza los corazones, los cuerpos y las almas de la mejor manera posible. Cuando esta carta aparece un idilio, un compromiso o una relacion amorosa feliz.",
+      "number": "II"
+    },
+    {
+      "name": "Tres de copas",
+      "img": "cupTres.jpg",
+      "clave": "Las tres mujeres visten túnicas sueltas de colores vivios adornados con símbolos misticos y sus joyas de plata birllan a la luz del sol mientras parecen celebrar tranquilamente. Estan rodeadas de una enorme variedad de flores magicas, todas ellas asociadas con el elemento agua. Las rosas rosadas anuncian una amistad autentica y duradera. Esta carta representa el poder de tres. Hay tres trinidades en ellas",
+      "number": "III",
+      "significado": "Esta carta es un recordatorio de los lazos de magia y la amistad, asi como una representacion del poder de tres. Tu magia se esta manifestando tanto individual como en grupo, esta por todas partes. Espera crecimiento, exito y creatividad. Estas alcanzando tus metas. Tambien puede indicar que estas experimentando un crecieminto espiriual o psiquico"
+    },
+    {
+      "name": "Cuatro de copas",
+      "img": "cupCuatro.jpg",
+      "clave": "Un niño aparece sentado a la orilla de una laguna. Aunque sea un dia resplandeciente, tiene los brazos cruzados sobre el pecho y está cabizbajo. Al lado del niño, hay una sirena de ojos azules y cabello rubio. Las perlas que porta estan asociadas con la energia lunar y femenina y representan sueños de lo que pueden llegar a ser. Ella levanta y agita su bellisima cola de rayas azules y verdes , esperando a que el niño alce la vista y vea las oportunidades que tiene en sus manos ",
+      "number": "IV",
+      "significado": "Representa el aburrimiento, el estancamiento y la insatisfaccion. Sin embargo la aventura, el cambio y la ayuda se te han presentado. Solo tienes que abrirte para percibir esas nuevas posibilidades, la ayuda viene de donde menos esperas, agradece y reconcidera tu posiciona actual"
+    },
+    {
+      "name": "Cinco de copas",
+      "img": "cupCinco.jpg",
+      "clave": "Una bella criatura elemental, una sirena se encuentra en la orilla sentada en las rocas, junto su cabello y sus escamas son de un brillante turquesa. Parece que el mar se alla contagiado de su temperamento y se muestra ligeramente agitado. Frente a ella hay 5 copas de plata y aunque dos esten de pie, tres se han volcado y el agua entra y vuelve a salir de ellas para regresar de nuevo al mar. La sirena parece desgraciada, ansia algo que no puede tener.",
+      "significado": "Esta carta simboliza la insatisfaccion el pesimismo y el anhelo de algo, que nunca podras tener. Es un aviso de qe el aburrimiento, las peñas decepsiones y la irritacion estan empesando a controlar tu vida. Quieres lo que no puedes tener, o lo que a la larga te perjudicará. Ha llegado el momento de dejar de hacer un drama por todo, y mirar a tu alrededor para reconocer tus oportunidades.",
+      "number": "V"
+    },
+    {
+      "name": "Seis de copas",
+      "img": "cupSeis.jpg",
+      "clave": "Dos niños rubios adorables, estan sentados alegremente sobre la verde hierba en una soleada tarde de verano. un arrollo ligero y silencioso atravisa el paisaje. Tiene la profundida justa para que los niños puedan chapotear y jugar sobre el sin peligro. Todo es sensillo, lleno de tranquilidad encanto e innocencia. En esta carta la imagninacion es lo que mueve al mundo. ",
+      "significado": "Esta carta simboliza los momentos felices de tu niñez, los viejos amigos, la familia y tu pasado. Puede indicar reuniones, una visita sorpresa de un familiar, un amigo olvidado de viejos tiempos. El seis de copas tambien puede ser un aviso de que tienes que adoptar esa actitud de asombro ante el mundo que te rodea tan propio de la niñez.",
+      "number": "VI"
+    },
+    {
+      "name": "Siete de copas",
+      "img": "cupSiete.jpg",
+      "clave": "Hay siete copas plateadas dispuestas en un banco de nubes, cada una de ellas contiene algo maravilloso, magico y distinto. El mago con su gesto de la mano abierda te anima a extender la tuya y agarrar una de estas copas plateadas. Te ofrece varias alternativas. Cualquier eleccion que hagas es igualmente maravillosa y a la vez representan algo distinto. ",
+      "significado": "Puedes elegir entre muchas opciones maravillosas, esta es la carta de los sueños, simbolos y signos de adivinacion. Elige cualquiera de estas siete copas, y comprueba lo que esta eleccion dice de ti. El dragon rojo representa el poder de la transformacion y el fuergo. El gato negro te da la oportunidad de acercarte mas al reino animal. El castillo te ofrece la oportunidad de alcanzar estabilidad, comodidad y hogar. El arcoiris te muestra que es el momento de perfeccionar tus habilidades de comunicacion. las joyas y las monedas te invitan a sumergirte en el elemento tierra y hacer magia con el. La sirena te invita a aceptar tus dones psiquicos y tus emociones. Por ultimo la mariposa te señala al elemento aire: agudiza tu intelecto, afina tus sentidos y prestale sentido a tu intuicion.",
+      "number": "VII"
+    },
+    {
+      "name": "Ocho de copas",
+      "img": "cupOcho.jpg",
+      "clave": "Hay ocho copas plateadas colocadas en fila, y dispuestas en equilibrio. Tras ellas vemos a una joven con capa azul de viajero. La luna en cuarto creciente brilla en cielo nocturno en el que titilan cuatro estrellas. La viajera a decisidido abandonar aquello que ya no le es necesario y que le perjudica. Las flores de su pelo son simbolicas, la flor rosada de los gisantes de olor representa la partida.",
+      "significado": "Esta carta te dice que debes pasar pagina. Esto puede interpretarse como un cambio fisico, por ejemplo mudarse por razones de trabajo o puede tratarse de un cambio emocional. Simboliza dejar atras el pasado y continuar adelante con determinacion, hacia un lugar mejor. Mas feliz mas sano, disfruta los cambio s positivos en tu vida.",
+      "number": "VIII"
+    },
+    {
+      "name": "Nueve de copas",
+      "img": "cupNueve.jpg",
+      "clave": "Sobre una mesa de banquete hay nueve copas plateadas. detras de la mesa, vemos una mujer que viste una tunica de colores, lleva en el pelo plumas de mistico pavo real y una flor azul. Dispuesto cuidadosamente sobre la mesa, como si la celebracion fuese a comenzar enseguida, vemos un arreglo frutal hecho con piñas, uvas, manzanas y una calabaza. ",
+      "significado": "Cuando esta carta aparece en una lectura es señal que tu vida social va a aumentar considerablemente. Simboliza la bienvenida y confirma que seras el anfitrion de un evento o reunion. Disfruta los preparativos y planes y no te dejes estresar. A esta carta tambien se le llama a veces la carta del deseo, estas a punto de que se te conseda un deseo.",
+      "number": "IX"
+    },
+    {
+      "name": "Diez de copas",
+      "img": "cupDiez.jpg",
+      "clave": "Un hombre rubio y una mujer de pelo castaño estan a la orilla de una rio sinuoso. Abrazados miran al cielo azul, dode un arcoiris brilla sobre la familia, en el hay diez copas plateadas. Los niños de fondo añaden energia y entusiasmo, a lo lejos se ven sauses verdes y una bonita casa de campo en una colina. El río es un símbolo de las emociones felices que fluyen. La casa de campo es un símbolo claro de un hogar feliz.",
+      "significado": "Cuando el brillo del diez de copas aparece en una lectura es un buen presagio. Es la carta de la familia feliz, y de una relación estable. Támbien simboliza el vínculo de la amistad y el compañerismo. Se requiere dedicación para mantener estas buenas relaciones. Alegrate tus amigos y familia son valiosos, aprecialos como se merecen.",
+      "number": "X"
+    },
+    {
+      "name": "Paje de copas",
+      "img": "cupPaje.jpg",
+      "clave": "Esta carta se representa como una jovensita a punto de hacerse mujer, esta llena de optimismo y curiosidad. Sostiene frente a ella con ambas manos una copa plateada, en la que aparece un pez azul que le susurra secretos. El pez la está invitando que mire su interior para asimilar el elemento agua y explorar sus talentos intuitivos, mágicos y psíquicos. La rodea una ola juguetona, a ella no le preocupa, mas bien agradece que ella jugue salpicandola de agua. ",
+      "significado": "Cuando el paje de copas aparece en la lectura, es señal de que estan apunto de emerger nuevos talentos intuitivos. Disfruta la diversión del descubrimiento, y vuelve a desempeñar tu oficio con alegría. El mensaje del paje de copas es: explora tus talentos mágicos y psíquicos. No olvides que la mágia es muy divertida.",
+      "number": "|"
+    },
+    {
+      "name": "Caballero de copas",
+      "img": "cupCaballero.jpg",
+      "clave": "El apuesto caballero de copas recorre tranquilamente un prado verde, a lo lejos puede verse un castillo y densas nubes al fondo. El esta mirando una copa plateada que sostiene con expresión soñadora, como si hubiera algo reflejado en su interior. podría envolverte en una aventura romantica, o ser un amigo o aliado que te acompaña en un viaje. ",
+      "significado": "Un joven romantico e intuitivo de cabello rubioi llegará pronto, esta carta de la corte con frecuencia suele representar, a un hombre sensible galante y caballeroso, caracteriza a alguien que es fiel  y autentico, que cree en la mágia y en el honor, El desafio que plantea es el siguiente: eres capaz de mirar en la superficie de la copa, para ver lo que sucederá o tener una visión de tu próximo amor. Fluye com el agua.",
+      "number": "|"
+    },
+    {
+      "name": "Rey de copas",
+      "img": "cupRey.jpg",
+      "clave": "El Rey de copas esta sentado en su trono junto al mar. Los dos brazos del rey descansan en ambos brazos del trono, mostrando su estado de relajación y pleno control sobre su territorio. Al fondo podemos ver el mar y los delfines haciendo cabriolas en el agua.",
+      "significado": "Un hombre maduro sabio y conocedor de la magia, esta carta representa un individuo que es artistico, intuitivo y apasionado. La lección del rey de copas, es que la sabiduria viene de mirar en el interior. Suaviza tus opuniones sobre los demas, con compasión y afecto.",
+      "number": "|"
+    },
+    {
+      "name": "Reina de copas",
+      "img": "cupReina.jpg",
+      "clave": "La encantadora reina de copas, esta sentada en un trono de concha y coral al borde del mar. Las suaves olas del fondo y la belleza del cielo azul marcan la pauta de su estado interior. Ella es mística y serena. Lleva una corana de plata de siete puntas, que representan los siete mares. Ella eleva la copa a la altura de los ojos, como si estuviese viendo el futuroen en su interior.",
+      "significado": "Esta carta representa a una mujer madura, mística, comprensiva, sensual, amorosa y emotiva. Puede representar a una mujer rubia de gran intuisión y talentos mágicos. Calma tus emociones, sé amoroso y nobre, permite que la sanación del elemento agua te purifiquen.",
+      "number": "|"
+    }
+  ],
+  "bastos": [
+    {
+      "name": "As de bastos",
+      "img": "asBasto.jpg",
+      "clave": "Esta amaneciendo y vemos una rama florecida de espino. Detras hay verdes montañas onduladas y un castillo que representa la recompensa que te aguarda cuando tu busqueda de conocimiento y progreso concluya. Las flores del espino representan las ideas que emergen de nuestra mente y la mariposa de rojo intenso es simbolo de la transformacion, la regeneracion y la alegria.",
+      "significado": "El As de Bastos es la forma más poderosa y pura del elemento masculino fuego. Muestra la energia creativa que esta surgiendo y no se puede contener. Simboliza poder, un nuevo principio, un nacimiento, éxito, una nueva casa o trabajo, pasion, entusiasmo y crecimiento.",
+      "number": "|"
+    },
+    {
+      "name": "Dos de bastos",
+      "img": "dosBasto.jpg",
+      "clave": "Un hombre de cabello castaño rojizo está contemplando el agua al atardecer. Se trata de una persona rica y prospera. Parece que sostiene el mundo en la palma de su mano, sin embargo sigue mirando a lo lejos, como si estuviera buscando algo mas. Los barcos y el mar simbolizan las esperanzas y los sueños del futuro. Se prepara para un cambio favorable.",
+      "significado": "Esta carta representa un exito parcial y aunque la gente cree que tienes el mundo en tus manos, tú sientes que estas en el punto intermedio de la ruta hacia tus metas. Tienes que elegir y tomar decisiones importantes. Escucha a tu mentor, tienes ayuda y buenos consejos. Disfruta las nuevas oportunidades",
+      "number": "II"
+    },
+    {
+      "name": " Tres de bastos",
+      "img": "tresBasto.jpg",
+      "clave": "Un hombre con tunica naranja rojiza, contempla el mar y el horizonte desde lo alto de un acantilado. Su elevado y estratégico punto de vista le permite ver el panorama general. El joven ojea el mar como aguardando a que lleguen sus barcos, quiza para abordar uno de esos navios y embarcarse a la aventura de explorar lo desconocido. Esta es una carta emocionante, llena de posibilidades y exito inminente.",
+      "significado": "Cuando el Tres de Bastos aparece en una lectura, representa un tiempo de esperanza. Muestra el comienzo de un nuevo proyecto y la esperanza que vienen de hacer planes para una nueva vida. Este es un tiempo de expansión y crecimiento. Asume mas liderazgo y permanece atento, el futuro se presenta prometedor.",
+      "number": "III"
+    },
+    {
+      "name": " Cuatro de bastos",
+      "img": "cuatroBasto.jpg",
+      "clave": "Hay cuatro baras de espino plantadas en la hierba formando un gran cuadro. Cuatro mujeres que representan a los cuatro elementos bailan debajo de las exuberantes flores extendidas. Al fondo el cielo es de un amarillo soleado y puede verse un castillo que representa la seguridad y las metas que se consiguen",
+      "number": "IV",
+      "significado": "Cuando el Cuatro de Bastos baila en una lectura, preparate para la fiesta. Esta carta indica celebraciones, cumpleaños, una graduacion o aniversario. Anuncia un tiempo de compartir alegria y diversion con los demas. Representa también creatividad y libertad de expresión"
+    },
+    {
+      "name": "Cinco de bastos",
+      "img": "cincoBasto.jpg",
+      "clave": "Cinco imponenetes dragones se están lanzando a la batalla a través de las nubes. Un dragón es morado para representar el espiritu; otro azul en representación del agua; otro verde por la tierra; otro mas verde y dorado por el aire, y por ultimo otro rojo brillante, por el fuego. Los dragones tienen la reputación de ser fieros y feroces, pero también sabios y mágicos, todo al mismo tiempo.",
+      "number": "V",
+      "significado": "Cuando esta carta aparece te muestra que hay pequeñas molestias y disputas con las que te ves obligado a lidiar. Todos tienen una opinion distinta y quieren ser escuchados. Indica disputas con tus compañeros o amigos. Ármate de valor y esfuerzate por resolver tus conflictos y verás resultados positivos."
+    },
+    {
+      "name": "Seis de bastos",
+      "img": "seisBasto.jpg",
+      "clave": "Un orgulloso guerrero regresa triunfante de la batalla, está cansado pero parece orgulloso de volver a casa. En el fondo el cielo es azul , y un sol brillante resplandece sobre el jinete y el caballo. Los vibrantes colores de su armadura y túnica indican orgullo y logros. Tiene en la mano una larga vara de espino florecido que simboliza su regreso triunfante.",
+      "number": "VI",
+      "significado": "Esta es una carta de la victoria que simboliza logros, conocimiento, elogios, exito, consecución de un objetivo y premios bien merecidos tras el duro esfuerzo. También nos recuerda que debemos ser pacientes, tal vez sean momentos desafiantes pero podrás superarlos y saldras victorioso si si sigues trabajando."
+    },
+    {
+      "name": " Siete de bastos",
+      "img": "sieteBasto.jpg",
+      "clave": "Un joven ágil y atlético  sostiene frente a su pecho una bara de espino florecido. Tras el ahi acantilados que representan lo desconocido, pero el cielo esta iluminado sin nubes. Esto ofrece una pista visual de que todo va a ir bien. Ataca las otras baras confiadamente, como si confiara del desafio. Es independiente astuto y capaz. Esta carta simboliza la adrenalina, el entusiasmo y la ambición. ",
+      "significado": " Cuando esta carta aparece en una lectura, es señal de que estas por enfrentarte a un desafio, y de que ademas, propablemente disfrutaras haciendolo. Puede ser un tipo de prueba personal, el siete de bastos aparece para asegurarte que superarás tus obstaculos y te elevaras por encima de ellos, con elegancia, ingenio y humor.",
+      "number": "VII"
+    },
+    {
+      "name": "Ocho de bastos",
+      "img": "ochoBasto.jpg",
+      "clave": "Ocho varas de espinas florecidas adornadas con cintas rojas descienden de un bello cielo azul. Las varas estan regresando a la tierra, por asi decirlo. Esto puede indicar que muchas oportunidades creativas estan cayendo en el sitio apropiado. Ademas, tu viaje esta lleegando a un final feliz; todo lo que esperabas esta a punto de ocurrir, y el exito se encuentra al alcance de tus manos.",
+      "significado": "Esta carta te dice que los proyectos que una vez se retrasaron, están llegando rápida conclusión. Esta es una carta positiva y excitante como llena de emoción y acción. Con frecuencia indicarâ un viaje de negocios o placer. Es un momento deideas rfescas y creatividad. ",
+      "number": "VIII"
+    },
+    {
+      "name": "Nueve de bastos",
+      "img": "nueveBasto.jpg",
+      "clave": "Una mujer de aspecto fuerte y decidido, va vestida de rojo con un gran dragón heráldico, bordado en su túnica. Bruja y guerrera a la vez está preparada para defender su territorio. El sol poniente simboliza que la prueba del guerrero está a punto de llegar a un final feliz. En la base de las varas crece la hierba de san Juan, vinculada al fuego y símbolo de protección física y mágica.",
+      "significado": "Esta carta, nos avisa que estemos alerta ante algún problema. Puede que tengas que defenderte así que mantente alerta y en guardia. Brio valentía y convicción son necesarios en este momento. Quizá sientas que no tienes fuerza, pero mantente firme, establece límites y recurre a tus recursos internos.  ",
+      "number": "IX"
+    },
+    {
+      "name": "Diez de bastos",
+      "img": "diezBasto.jpg",
+      "clave": "Vemos a un hombre mayor que parece alejarse. Lleva un fardo de diez varas florecidas de espino sobre el hombro. Estâligeramente encorvado, como si la carga fuese demasiado pesada. El castillo de fondo, representa la recompensa que aguarda al finalizar tu búsqueda de conocimiento y progreso. El mismo a elegido acarrear esta carga de una vez y por sí solo. ",
+      "significado": "Cuando esta carta aparece en una lectura, es una advertencia de que estás ocupándote de muchas cosas al mismo tiempo. La carga de diez varas de espino,, representa tener una cantidad excesiva de algo positivo. Debes desprendderte de algo, suelta algunas varas para poder cumplir tu misión y objetivos. Aprende a delegar o tendrás problemas para alcanzar tus metas.",
+      "number": "X"
+    },
+    {
+      "name": "Paje de bastos",
+      "img": "pajeBasto.jpg",
+      "clave": "El joven paje de bastos está de viaje. Su expresión no deja lugar a dudas que está gritando con todas sus fuerzas, es un mensajero que lleva entusiasmo y felicidad a donde quiera que vaya. Acompañandole en sus viajes vemos un gato atigrado naranja. Este simboliza la buena suerte, y aleja la negatividad.  ",
+      "significado": "Esta es una carta de buenos augurios y alegría, cuando se anuncia en una lectura, preparate para buenas noticias y momentos emocionantes, puede estar anunciando una nueva oportunidad nueva de trabajo, o un ascenso. Espera una invitacion o una oportunidad.",
+      "number": "|"
+    },
+    {
+      "name": "Caballero de bastos",
+      "img": "caballeroBasto.jpg",
+      "clave": "El caballero tiene una gran confianza en sí mismo y la moral muy alta. No tiene miedo, su expresión es intensa y apasionada. Al fondo vemos un bello cielo de verano al atardecer, un lago y tres montañas. El león que lleva en la túnica, simboliza la valentia y la fuerza. Está carta es simbolo de rápidez aventura y acción. ",
+      "significado": "Cuando esta carta entra en tu vida, trae cambio aactividad emocionante y alborozo.Es la carta del movimiento, espera lo inesperado. Puede que te encuentres cambiandote de trabajo o mudandote a una casa nueva. Tal vez se te presente una oportunidad para viajar. Anuncia un tiempo de energía, decisiones osadas, acción y aventura. Abraza el cambio y disfruta el viaje.",
+      "number": "|"
+    },
+    {
+      "name": "Rey de bastos",
+      "img": "reyBasto.jpg",
+      "clave": "Un hombre de mediana edad con pelo rojizo, está sentado en un trono dorado. En el fondo el cielo es de un amarillo y rojo brillantes, como si el sol estuviera sliendo y mostrando todas las posibilidades del día que nace. Este rey gobierna con la autoridad, pasión, honestidad y generosidad. Es un hombre activo, que se siente mejor cuando esta resolviendo los problemas sobre la marcha y en medio de la acción. ",
+      "significado": "La lección del rey de bastos, es que la energía y el entusiasmo, te ayudarán a alcanzar tus metas artisticas y creativas. Se generoso y comprensivo con la gente que te rodea. Prestale atención a un hombre rubio del signo fuego. Es un lider o un personaje importante, abierto directo y encantador. También representa la expresión creativa, y el hecho de defender las ideas y los sueños de los demas.",
+      "number": "|"
+    },
+    {
+      "name": "Reina de bastos",
+      "img": "reinaBasto.jpg",
+      "clave": "La reina de bastos se reclina en su trono estilizado de girasol. Lleva una corona dorada con rubies rojos, estas piedras preciosas otorgan energía y pasión. En el uso mágico de las plantas se emplea el girasol para el éxito y la fama. En el regaso de la reina se encuentra su animal toténico, un gato macho de color naranja que es el centro de atención.",
+      "significado": "Cuando la reina de bastos aparece en la lectura, respira hondo. Ahora es cuando empiza la diversión pues representa energía, entusiasmo y pasión. Con frecuencia representa a una mujer bella de ojos claros, que ama su hogar y a la familia, es insolente, divertida, cariñosa y traviesa. El mensaje de esta carta es el siguiente: Hogar familia, mágia y carrera, puedes tenerlo todo, simplemente deja que tu pasión por la vida y tu energía creativa y espiritual te llenen y te abram el camino.",
+      "number": "|"
+    }
+  ],
+  "espadas": [
+    {
+      "name": "As de espadas",
+      "img": "espAs.jpg",
+      "clave": "Una espada flota verticalmente en medio del aire, y es el foco principal de la carta. Detrás de ella vuela solitario un halcón de cola roja, las espadas estan vinculadas al elemento aire. El halcón es un mensajero nos invita a avanzar, a buscar nuevas ideas, y nuestra verdadero proposito de vida. Esta carta nos muestra que la lucidez espirtual, nos lleva a ver mucho mas alla de la fantansia para alcanzar la verdad real e imperecedera. ",
+      "significado": "Esta carta es la forma mas potente y pura del elemento masculino del aire, cuando aparece en una lectura es como si te llegara la nota diciendote que ha llegado el momento de actuar. Habla del intelecto, heroismo, victoria, empezar de nuevo y ganar batallas. Otra lección que nos muestra es que ahora tienes la oportunidad de empezar a pensar de otra manera y ver mas alla de la fantasia.",
+      "number": "I"
+    },
+    {
+      "name": "Dos de espadas",
+      "img": "espDos.jpg",
+      "clave": "Atardece y una mujer de cabellos castaños lisos, esta sentada en un banco de piedra. La mujer tiene lo ojos vendados y los brazos cruzados sobre el pecho sosteniendo dos espadas, el hecho de llevar una venda dice que confia plenamente en sus demas sentidos. La mujer se encuentra en el crepusculo por que se encuentra en un estado intermedio.",
+      "significado": "Cuando esta carta aparece, es una advertencia de que has bloqueado tu corazón y que estas reprimiendo tus emociones. Estas literalemnte negandote a ver lo que hay frente de ti. Examina con detenemiento ambas caras de la situación establecer límites es algo positivo, pero no hay que cerrarse a los demas. se como el agua que permanece en calma y mantente en equilibrio igual que las espadas.",
+      "number": "II"
+    },
+    {
+      "name": " Tres de espadas",
+      "img": "espTres.jpg",
+      "clave": "Un gran corazón rojo es atrevesado por tres espadas, al fondo un cielo tormentozo. Mientras el corazón símbolo de amor, verdad y valor, las tres espadas que lo atraviesan, representan traición y desengaño, esta carta ilustra los momentos mas duros de angustia, dolor de perdida y retraso.",
+      "significado": "Esta carta mas que ninguna otra representa el dolor y la perdida del consultante. Lo que debes entender, es que debes aceptar y atravesar el dolor, soltar unas lagrimas y luego pasar la página. tambien representa retrasos en un proyecto, o dolorosas repercuciones kármicas.",
+      "number": "III"
+    },
+    {
+      "name": " Cuatro de espadas",
+      "img": "espCuatro.jpg",
+      "clave": "Vémos a una mujer de ojos marrones claros, a la derecha hay tres espadas, y la mujer sostiene la cuarta. En la mano derecha lleva unas ramas de sause que simbolizan la recuperación de una enfermedad recordandote que debes descansar y reponerte. Las amatistas que adornan su vestimenta, propicia la sanación y sueño reparador.  ",
+      "significado": "Cuando esta carta aparece en una lectura es señal que debes tomarte un tiempo de descanso, Para poder recuperar la energía perdida y volver a tener fuerzas. Puede que puedas acostumbrarte a la soledad por un tiempo. Descubriras las soluciones a tus problemas tranquilamente, y sin esfuerzo.",
+      "number": "IV"
+    },
+    {
+      "name": "Cinco de espadas",
+      "img": "espCinco.jpg",
+      "clave": "Cinco espadas estan dispuestas sobre un abanico en un precioso cielo azul brillante, donde se unen las puntas de las cinco espadas vemos una preciosa libelula, símbolo del elemento aire, esta carta muestra que han herido tu orgullo, puede que ahora te sientas avergonzado, pero eso en su mayorr parte es solo una ilusión. La libelula representa la necesidad de tomar un nuevo punto de vista.",
+      "significado": "Cuándo aparece en una lectura es señal de que el consultante se siente humillado y avergonzado, se trata solo de una derrota parcial. Dale la vuelta a la situación y busca otras posibilidades. Permiteque el elemento aire traiga una nueva perspectiva, y escucha el mensaje de la libelula, empieza a ver más allá de las apariencias. ",
+      "number": "V"
+    },
+    {
+      "name": "Seis de espadas",
+      "img": "espSeis.jpg",
+      "clave": "Hay un joven sentado en la parte tracera de una embarcación. Dentro de ella hay seis espadas de pie con la punta hacia abajo, estas no dañan la barca, quizá esten tapando unos agujeros, te indican que aunque lleves contigo preocupaciones no tienes por que agobiarte por ellos. El cielo azul y el horizonte claro, muestran que es un buen momento para viajar. ",
+      "significado": "Tradicionalmente esta carta significa viajar por el agua. Hoy en día indica movimiento y progreso de algun y tipo. Indica que es un buen momento para el cambio y la experiencia que brinda el viaje. Presagia avance, mejora de la situación actual, un nuevo trabajo, mudanza o por supuesto un viaje. ",
+      "number": "VI"
+    },
+    {
+      "name": " Siete de espadas",
+      "img": "espSiete.jpg",
+      "clave": "Un hombre acarrea cinco espadas, con satisfacción en su rostro. A dejado atras otras espadas mas, pero esta muy contento con el botín que ha logrado. En su cuello leva un medallón con el pentáculo hacia arriba. Ha utilizado su perspicacia, su confianza e inteligencia, para llevarse su premio. Al fondo vemos pasar nubes de tormenta alejandose. ",
+      "significado": "Cuando esta carta hace su aparición, es un aviso para implementar nuevos esquemas o tácticas, y para ser listo y creativo. Atrevete a pesar de forma original a salirte de los moldes, y experimentaras un gran progreso. Aporta soluciones nuevas, a los mismo problemas de siempre.",
+      "number": "VII"
+    },
+    {
+      "name": "Ocho de espadas",
+      "img": "espOcho.jpg",
+      "clave": "Una mujer esta atada y tiene los ojos vendados. A su alrededor clavadas en la hierba en circulo hay ocho espadas, el río muestra el fluir de las emociones, mientras el castillo cbierto de niebla, indica que las metas parecen dificiles de alcanzar. Alrededor de las espadas florece la bella dona, que simbolizan pensamientos falsos y oscuros. La mujer podría atravesar el circulo de espadas y salir de alli, realmente tiene opciones, pero el miedo la domina. ",
+      "significado": "Cuando esta carta aparece en una lectura, nos habla de limitación de sentirse atrapado y abatido. Sinembargo, si uno dejara de hacer drama por todo, y se quitara esa venda emocional, encontraría una salida. Las cosas no son tan negativas como parecen. La felicidad es posible, el sol esta saliendo y pueden surgir nuevas oportunidades.  ",
+      "number": "VIII"
+    },
+    {
+      "name": "Nueve de espadas",
+      "img": "espNueve.jpg",
+      "clave": "Es denoche y una mujer yase rendida en su alcoba, ha caido desvanecida por un agotamiento emocional o físico. Hay nueve espadas colocadas formando una especie de jaula y tapando la vista. Quiza la mujer este intentando alcanzar la empuñadura de la espada, puede que porfin este preparanda para liberarse y acabar con el drama. O tal vez necesite regreandose mas en la auto compasión. ",
+      "significado": "Esta es la carta de 'la victima'. Simboliza alguien que siempre esta atravesando una crisis, puede ser un vampiro emocional, como es la carta numero nueve, tambien te indica que estas cerca de la resolución del problema. decide tomar la espada y defenderte a ti mismo y a tus energías personales. Asi mismo puede representar repercusiones kármicas de una decisión equivocada. ",
+      "number": "IX"
+    },
+    {
+      "name": "Diez de espadas",
+      "img": "espDiez.jpg",
+      "clave": "el cuerpo de un hombre yace boca abajo sobre la hierba, con diez espadas sobre la espalda y la cabeza. La ausencia de sangre en la carta nos recuerda que se trata de un acto simbolico, no literal. La persona representada aquí confio cuando no debio hacerlo o ignoró sus propios instintos, y ahora paga el precio al ser traicionado. ",
+      "significado": "Cuando esta carta aparece en una lectura, tienes que preguntarte: por que no escuche a mi instinto?. Muestra la tración de una persona querida o un amigo. esto es lo que sucede cuando ignoras a tu voz interior. Por ignorar las se;ales de aviso y no prestarle atención a tus corazonadas has de pagar un alto precio, tienes que ser inteligente como el búho y salir volando de toda negatividad.",
+      "number": "X"
+    },
+    {
+      "name": "Paje de espadas",
+      "img": "espPaje.jpg",
+      "clave": "Hay una adolecente alta y delgada en una llanura verde. Alza sin dificultad una espada con ambas manos. Se esta poniendo a prueba para cuando llegue el momento. Atacará y se defenderrá, o bajará la espada?. Podría ocurrir cualquier cosa. Tras el se abren cielos azules y nubes blancas y esponjosas, indicadoras de un buen tiempo. ",
+      "significado": "Cuando esta carta aparece en una lectura, significa que debes pensar rápidamente, y actuar con decisión pero manteniendo la calma. Haz de mantenerte alerta para futuros conflictos, pero deberías usar la inteligencia no la fuerza bruta. El halcón simboliza los mensajes, y constituye un simbolo de la deidad. Así que presta atención a lo que sucede a tu alrededor.",
+      "number": "|"
+    },
+    {
+      "name": "Caballero de espadas",
+      "img": "espCaballero.jpg",
+      "clave": "El joven y apuesto caballero de espadas, esta entrando en batalla, es un guerrero peligroso, valiente y osado, tiene que ver con el coraje el impulso, la sagasidad y la valentia. Es un  individuo sin miendo y sus ideales lo impulsan hacia adelante, en una lucha por aquello en lo que cree. ",
+      "significado": "Sí resumieramos esta carta de la corte en dos palabras serían 'sin miedo'. Indica que es necesario actuar y a llegado el momento de que te lances y seas el heroe. El caballero de espadas estará rugiendo en tu vida, y te traera descubrimiento, comunicación, nuevas ideas y cambio.Lucha por tí y en lo que crees.",
+      "number": "|"
+    },
+    {
+      "name": "Rey de espadas",
+      "img": "espRey.jpg",
+      "clave": "El rey de espadas es un hombre de mediana edad, y de pelo castaño. Su expersión seria, denota que esta pensativo planeando algun asunto. En la mano derecha sostiene la espada de la verdad, y la luz del sol relue en ella, ell halcon simboliza la rapidez, presicion y la astucia. Y nos anima a estar preparados para actuar en el momento oportuno.",
+      "significado": "Cuando aparece en una lectura, sé conciente de que tus acciones podrán ponerse en tela de juicio. Esta carta te hace cuestionarte serenamente la sabiduria de tus emociones, y te anuncia que ha llegado el momento, de transformar tu conocimiento en acciòn. La lección es transformar tu conocimiento en acción mientras sigues siendo honrado y justo.  ",
+      "number": "|"
+    },
+    {
+      "name": "Reina de espadas",
+      "img": "espReina.jpg",
+      "clave": "En lo alto de una montaña premanece sentada la bella reina de espadas. Tras el trono hay una urraca azul, nos recuerda que debemos recurrir a nuestro propio sentido de la soberania: desarrollar nuestros propios talentos, no tener miedo y practicar lo que predicamos con integridad. El hada que revolotea a su lado, es una sílfide, una criatura elemental del aire.",
+      "significado": "La reina de espadas es una mujer inteligente e ingeniosa, irónica y mordaz. Cuando esta carta aparece puede indicar que debes prestar atención a tus propios instintos e intuición. El mensaje de esta carta es el siguiente: defiende tu independencia, valete por ti mismo, sigue tu intución e intenta algo nuevo.",
+      "number": "|"
+    }
+  ],
+
+  "pentaculos": [
+    {
+      "name": "As de pentaculos",
+      "img": "penAs.jpg",
+      "clave": "Un gran pentáculo dorado flota en el aire, y está rodeado por enredaderas de madre selva que esta vinculada al elemento tierra y al planeta Jupiter, es usada en los rituales de prosperidad y buena suerte. Es una de las cartas más positivas del tarot. Vaticinan riqueza, prosperidad y estabilidad. Simboliza también la manifestación real de tu magia en el mundo físico. ",
+      "significado": "Sé creativo y pon todas esas ideas en acción para alcanzar el exito material. El dinero puede llegar a manifestarse en tu vida como si saliera de la nada, así como el pentáculo está flotando en el aire.  También es un recordatorio de que el espíritu práctico y sentido común te guiaran. Salud, felicidad y seguridad",
+      "number": "|"
+    },
+    {
+      "name": "Dos de pentaculos",
+      "img": "penDos.jpg",
+      "clave": "Un joven está haciendo malabares con dos pentáculos dorados. Esta carta nos muestra a una persona feliz y abierta, no importa en qué entorno se encuentre, siempre halla la manera de hacer juegos malabares con las cosas a su alrededor. Aunque las aguas del mar son agitadas, la nave fluye con ellas. Este es un aviso para recordarte que hagas lo mismo.",
+      "significado": "Esta carta señala que es el momento de desarrollar nuevas aptitudes. También indica que posiblemente tengas que elegir entre dos opciones materiales. Es la carta de las segundas oportunidades, por ejemplo aceptar un segundo empleo. Esta carta mas que ninguna otra, se refiere al desempeño simultáneo de varias tareas. Equilibra tus finanzas personales.",
+      "number": "II"
+    },
+    {
+      "name": " Tres de pentaculos",
+      "img": "penTres.jpg",
+      "clave": "Un aprendiz de hechicero está sentado pensativo ante un escritorio de madera. Tras él, en una pared de piedra, hay un gran vidriera en la que aparecen tres pentáculos. El pentagrama que está dibujando es una representación de las fuerzas que usa para manifestar su mágia. Con el tiempo el aprendiz llegará a ser maestro de su oficio, gracias a su duro esfuerzo y dedicación.",
+      "significado": "Es un mensaje de que el exito nos llegará si ponemos en ello mucha dedicación y esfuerzo. Esta es una carta positiva de progreso, que te recuerda que deberías aprovechar tus dotes creativas, ya que te traerán el exito y te ayudarán a complementar tus ingresos si así lo deseas. Ahora es momento de dedicarte a dominar tu oficio. ",
+      "number": "III"
+    },
+    {
+      "name": " Cuatro de pentaculos",
+      "img": "penCuatro.jpg",
+      "clave": "Un hombre mayor está sentado solo sobre los escalones de su casa de campo. Con aire un poco receloso, abraza un pentáculo dorado sobre su pecho, se encorva sobre otro y guarda con cuidado  otros dos más  debajo de los pies, como si tuviese miedo de que alguien intentara quitarselos. ",
+      "significado": "Esta carta es señal de que alguien está aferrándose a algo de manera enfermiza. Te advierte de la resistencia al cambio. Acepta las transformaciones de tu mundo. Es el momento de bajar tus barreras. Reconecta con tus seres queridos, y descubrirás de nuevo la alegría de vivir. ",
+      "number": "IV"
+    },
+    {
+      "name": "Cinco de pentaculos",
+      "img": "penCinco.jpg",
+      "clave": "De un árbol seco, cuelgan cinco pentáculos dorados. Es invierno y al fondo vemos un cielo nublado y frío. Esta carta puede indicar que te sientes apartado, lejos de la gente que te quiere. La niebe puede ser signo de que es momento de empezar de cero. La flor campaniña, en primer plano, simboliza la renovación y el consuelo en la adversidad.  ",
+      "significado": "Esta carta te dice que debes centrarte, en superar los malos tiempos en lugar de abandonarse al miedo y la auto compasión. La campanílla blanca es significativa: muestra que la vida sigue y que el renacimiento es posible. No importa lo oscuro y frío que sea el invierno, laa primavera y las nuevas oportunidades estan a la vuelta de la esquina. ",
+      "number": "V"
+    },
+    {
+      "name": "Seis de pentaculos",
+      "img": "penSeis.jpg",
+      "clave": "Un caballero elegante reparte seis pentaculos a unos niños pobres, disfruta ayudando a otros menos afortunados que el. El fondo es brillante y luminiso, con abundante hierba verde, simboliza un intante de felicidad y prosperidad. No es sobre la caridad, es una ilustración de la energía positiva que se intercambia cuando damos y recibimos actos entre los que se encuentra un equilibrio. ",
+      "significado": "Esta es una carta de generosidad y regalos, que no tienen por que ser materiales, puede ser ayudar a alquien, regalarle tu tiempo o tu atención. Es una carta de asistencia y donación a una buena causa. En este momento fluye libremente una energía abundante y prospera.",
+      "number": "VI"
+    },
+    {
+      "name": " Siete de pentaculos",
+      "img": "penSiete.jpg",
+      "clave": "Un hombre de pelo negro está junto a una planta verde alta y frondosa. En ella pueden verse siete pentáculos dorados. Él parece cansado pero satisfecho. El cielo tras el es azul limpio y bello, el paisaje que le rodea es verde y exuberante> Todo el esfuerzo, tiempo y trabajo que el a puesto para el cuidado de esta planta, está rindiendo frutos.   ",
+      "significado": "Esta es la carta de la cosecha, cuando aparece en una lectura, habla de recompensas tras un duro esfuerzo, que contraresta todo el esfuerzo que has puesto en tus metas y pproyectos. Disfruta la satisfación del trabajo bien hecho. ",
+      "number": "VII"
+    },
+    {
+      "name": "Ocho de pentaculos",
+      "img": "penOcho.jpg",
+      "clave": "Una bruja esta sentada frente a una mesa, en un laboratorio de alquimia. En sus manos sostiene un gran pentaculo dorado. Los cuervos son el animal tradicionalmente aliado del aadivino, representan los misterios de la mágia y la brujería. Sobre la pared, hay ocho siete pentáculos dorados, ",
+      "significado": "Esta carta señala, que ha llegdo el momento del conocimiento práctico, la determinación y la maestría. Aprendes trabajando y esforzandote en tus estudios. Aquí hay una oportunidad para que te centres en un proyecto creativo como el arte y laescritura. Te recuerda que el esfuerzo, la concentración y la creatividad, suelen traer crecimiento, ganacias, y una sensación de plenitud. ",
+      "number": "VIII"
+    },
+    {
+      "name": "Nueve de pentaculos",
+      "img": "penNueve.jpg",
+      "clave": " Una sonriente bruja de jardín, esta rodeada por flores y ramajes frondosos. Está claro que es una mujer feliz, segura y auto suficiente. Los pendientes dorados que lleva son una referencia a su exito y properidad. En el jardín crece y se entre lanzas nueve grandes flores, con un pentácuo dorado, el hermoso halcón representa claridad de objetivos inspiración y confianza. ",
+      "significado": "Cuando esta carta florece en tu lectura, te habla de un momento de alegría y abundancia, simboliza a una bruja que se nutre del elemento tierra para recibir sus poderes. crea y mantiene un hermoso hogar y cultiva un jardín mágico. Habla tambien de compartir la magia y secretos del jardín con otros. Indica un periodo de abundancia económica y crecimiento personal. ",
+      "number": "IX"
+    },
+    {
+      "name": "Diez de pentaculos",
+      "img": "penDiez.jpg",
+      "clave": "Una pareja enamorada y feliz se abrazan contenplando a su hijo, y al abuelo del bebe que vémos en primer plano. La escena ilustra el conocimiento mágicos o los talentos psíquicos que pasan de generación en generación. El adorable perro es símbolo de lealtad y compañía. Por encima aparecen diez pentáculos alineados en dos filas. ",
+      "significado": "tradicionalmente esta carta significa logros, seguridad económica y apoyo de tus seres queridos. Nos muestra tanto el resultado final de la abundacia como de la espiritualidad. Cuando eta carta aparece en una lectura, el consultante tiene una 'familia' (amigos, familia, mascotas), amorosa y una vida feliz con ella.",
+      "number": "X"
+    },
+    {
+      "name": "Paje de pentaculos",
+      "img": "penPaje.jpg",
+      "clave": "Una jóven sostiene un gran pentaculo en sus manos. Se encuentra en un jardín bajo un magnolio florecido. Una cierva blanca se asoma junto al árbol, esta criatura es de las hadas, en cullo territorio te invita adentrarte, simboliza la mágia y los milagros. ",
+      "significado": "Esta carta te dice que si te centras en lo que quieres y te esfuerzas al máximo alcanzarás el éxito. Ahora es momento de centrarte en tu espiritualidad para observar como se manifiestan tus rituales en el plano físico.Abre lo ojos y observa a la naturaleza y estudia pancientemente su comportamiento para entender las lecciones de mágia terrenal.",
+      "number": "|"
+    },
+    {
+      "name": "Caballero de pentaculos",
+      "img": "penCaballero.jpg",
+      "clave": "El caballero de Pentáculos cabalga un caballo negro. Lleva un pentáculo dorado pegado al pecho como un escudo,  que simboliza su firme lealtad. Este caballero no busca activamente batallas, pero está preparado para ellas de todos modos. Representa el orgullo, el aplomo e integridad. ",
+      "significado": "Cuando esta carta aparece en una lectura, espera una prueba de algún tipo, es una prueba discreta de tu honor y de tus creencias personales. Observa con atención y muevete de forma metódica, enfréntate con cualquier dificultad de esta manera y obtendrás una victoria tranquila.",
+      "number": "|"
+    },
+    {
+      "name": "Rey de pentaculos",
+      "img": "penRey.jpg",
+      "clave": "El apuesto Rey de Pentáculos está sentado en un patio de piedra exterior. Lleva una corona de hojas de oro  engarzadas con esmeraldas. Un venado blanco heráldico aparece en el pecho de su túnica, este animal es símbolo de la realeza. La viña y las uvas simbolizan prosperidad, abundancia y felicidad doméstica.",
+      "significado": "Esta carta es una señal de que , esforzándose con empeño y determinación, el exito estará en camino. Esta carta representa a un hombre con el pelo oscuro y ojos de un marron profundo. Es abierto, responsable, realista y maduro.",
+      "number": "|"
+    },
+    {
+      "name": "Reina de pentaculos",
+      "img": "penReina.jpg",
+      "clave": "La bella y exótica Reina de Pentáculos está sentada en su trono floral. Luce una corona de hojas doradas con esmeraldas cuadradas engarzadas. En la frente lleva un bindi rojo.  Este es un símbolo del tercer ojo místico y de sabiduría. Los tulipanes verdes simbolizan la prosperidad y la suerte en el amor;  la madreselva , la riqueza y el cariño fiel. ",
+      "number": "|",
+      "significado": "Esta carta representa la genuina Madre Tierra. El mensaje de la Reina de Pentáculos es el siguiente: Acepta ese amor que profesas por las cosas bellas de este mundo. Crea a tu alrededor una atmósfera mágica y agradable para ti y para tus seres queridos."
+    }
+  ]
+}
