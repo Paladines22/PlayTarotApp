@@ -65,8 +65,6 @@ const Copas = () => {
         >
           Las copas simbolizan el agua, las capacidades psiquicas y las
           emociones. Analizan como estamos conectados los unos a los otros.
-          Representa el agua en todas sus formas: lagunas, fuentes, rios,
-          playas, y mares melancolicos.
         </motion.p>
       </motion.div>
       <div className="palo__principal-div">
