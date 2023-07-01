@@ -481,9 +481,11 @@ body {
   }
   .clave__container p {
     font-size: 1rem;
+    line-height: 1.4;
   }
   .significado__container p {
     font-size: 1rem;
+    line-height: 1.4;
   }
   .palo__principal-div {
     justify-content: stretch;
