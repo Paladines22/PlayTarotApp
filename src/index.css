@@ -1,4 +1,4 @@
-:root {
+dsafaf1`:root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   max-width: 100%;
   height: 100%;
@@ -426,8 +426,9 @@ body {
 .card__random-btn {
   height: 2rem;
   width: 2rem;
-  margin: 1rem;
+  margin: 0 auto;
 }
+
 .random__btn {
   width: 50px;
   cursor: pointer;

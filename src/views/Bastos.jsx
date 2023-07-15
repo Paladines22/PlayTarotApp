@@ -112,6 +112,7 @@ const Bastos = () => {
             transition={{ type: "spring", stiffness: 400, damping: 10 }}
             type="submit"
             onClick={changeIndex}
+            className="card__random-btn"
           >
             <img className="random__btn" src="/barajar.png" alt="" />
           </motion.i>
