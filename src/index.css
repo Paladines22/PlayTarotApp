@@ -1,7 +1,7 @@
-dsafaf1`:root {
+#root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  max-width: 100%;
-  height: 100%;
+  max-width: 100vw;
+  height: 100vh;
   background-color: #050526;
 }
 /*** HOME view styles */
@@ -9,6 +9,7 @@ body {
   margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
+  background-color: #050526;
 }
 
 .home__animation {
@@ -133,7 +134,7 @@ body {
   flex-wrap: wrap;
 }
 .menu__title {
-  margin: 3rem;
+  margin: 0 3rem 6rem 0;
   font-size: 8rem;
 }
 
@@ -314,23 +315,24 @@ body {
 
 @media (max-width: 666px) {
   .menu__title {
-    margin: 3rem;
+    margin: 0rem 3rem 0rem 3rem;
+    padding: 1rem;
     font-size: 3.5rem;
   }
 }
 @media (max-width: 833px) {
   .zodiaco__container {
     display: flex;
-    gap: 2vh;
+    gap: 1.5vh;
   }
 }
 @media (max-width: 630px) {
   .menu__cards-container {
     grid-template-columns: 1fr 1fr;
     grid-gap: 10px;
-    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
     width: 370px;
-    height: 550px;
+    height: 430px;
   }
   .bastos__container {
     grid-column: auto;
@@ -377,13 +379,14 @@ body {
 }
 .palo__title {
   font-size: 3rem;
-  margin: 1.9rem;
+  padding: 2rem;
   color: #222221;
+  margin: 0;
 }
 .palo__container {
   text-align: center;
   max-width: 60vw;
-  margin: auto;
+  margin: 0 auto;
 }
 .palo__principal-div {
   display: flex;
