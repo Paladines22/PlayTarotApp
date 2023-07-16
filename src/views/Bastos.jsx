@@ -54,17 +54,18 @@ const Bastos = () => {
         >
           BASTOS
         </motion.h1>
-        <motion.div
-          className="copas__info"
-          initial={{ opacity: 0, scale: 0.5 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{
-            duration: 1,
-            delay: 0.5,
-            ease: "easeInOut",
-          }}
-        >
-          <motion.div className="cualidades__container">
+        <motion.div className="copas__info">
+          <motion.div
+            className="cualidades__container"
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true, amount: 0.5 }}
+            transition={{ delay: 0.1, duration: 0.5 }}
+            variants={{
+              hidden: { opacity: 0, x: -50 },
+              visible: { opacity: 1, x: 0 },
+            }}
+          >
             <div className="cualidades__container-ent">
               <img className="bengala__img" src="/bengala.png" alt="" />{" "}
               <p> entusiasmo</p>
@@ -78,13 +79,33 @@ const Bastos = () => {
               <p> ambición</p>
             </div>
           </motion.div>
-          <motion.div className="fire__container">
+          <motion.div
+            className="fire__container"
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true, amount: 0.5 }}
+            transition={{ delay: 0.2, duration: 0.5 }}
+            variants={{
+              hidden: { opacity: 0, x: -50 },
+              visible: { opacity: 1, x: 0 },
+            }}
+          >
             <i className="fire__icons">
               <img src="/fire.svg" alt="" />
             </i>
             <p>fire</p>
           </motion.div>
-          <motion.div className="signos__container">
+          <motion.div
+            className="signos__container"
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true, amount: 0.5 }}
+            transition={{ delay: 0.4, duration: 0.5 }}
+            variants={{
+              hidden: { opacity: 0, x: -50 },
+              visible: { opacity: 1, x: 0 },
+            }}
+          >
             <div className="sign_container">
               <img className="sag_img" src="/sagitario.png" alt="" />
               <p>sagitario</p>
