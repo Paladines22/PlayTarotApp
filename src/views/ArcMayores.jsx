@@ -53,20 +53,20 @@ const ArcMayores = () => {
         >
           ARCANOS MAYORES
         </motion.h1>
-        <motion.p
-          className="copas__info"
-          initial={{ opacity: 0, scale: 0.5 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{
-            duration: 1,
-            delay: 0.5,
-            ease: "easeInOut",
-          }}
-        >
-          En cualquier punto de nuestras vidas podríamos encarnar una de estas
-          cartas. Los Arcanos Mayores tocan nuestas fibras más profundas y
-          espirituales. Nos hablan usando el lenguaje universal de la emoción.
-        </motion.p>
+        <motion.div className="description__arc-container">
+          <div className="arc__description-div">
+            <img className="bengala__img" src="/bengala.png" alt="" />
+            <p>Tocan nuestras fibras mas sensibles</p>
+          </div>
+          <div className="arc__description-div">
+            <img className="bengala__img" src="/bengala.png" alt="" />{" "}
+            <p>En momentos especificos encarnamos cada una de estas cartas</p>
+          </div>
+          <div className="arc__description-div">
+            <img className="bengala__img" src="/bengala.png" alt="" />
+            <p>Nos hablan usando el lenguaje del subconsiente</p>
+          </div>
+        </motion.div>
       </motion.div>
       <div className="palo__principal-div">
         <motion.div

@@ -49,11 +49,12 @@ const Copas = () => {
             scale: 1,
             color: "#222221",
           }}
-          className="palo__title"
+          className="palo__title margin__title"
         >
           COPAS
         </motion.h1>
-        <motion.p
+        <motion.div
+          className="copas__info"
           initial={{ opacity: 0, scale: 0.5 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{
@@ -61,11 +62,42 @@ const Copas = () => {
             delay: 0.5,
             ease: "easeInOut",
           }}
-          className="copas__info"
         >
-          Las copas simbolizan el agua, las capacidades psiquicas y las
-          emociones. Analizan como estamos conectados los unos a los otros.
-        </motion.p>
+          <motion.div className="cualidades__container">
+            <div className="cualidades__container-ent">
+              <img className="bengala__img" src="/bengala.png" alt="" />{" "}
+              <p>emociones</p>
+            </div>
+            <div className="cualidades__container-ent">
+              <img className="bengala__img" src="/bengala.png" alt="" />
+              <p> imaginación</p>
+            </div>
+            <div className="cualidades__container-ent">
+              <img className="bengala__img" src="/bengala.png" alt="" />
+              <p> relaciones</p>
+            </div>
+          </motion.div>
+          <motion.div className="water__container">
+            <i>
+              <img className="water__icon" src="/agua.png" alt="" />
+            </i>
+            <p className="element__title">water</p>
+          </motion.div>
+          <motion.div className="signos__container">
+            <div className="sign_container">
+              <img className="sag_img" src="/escorpion.png" alt="" />
+              <p>escorpio</p>
+            </div>
+            <div className="sign_container">
+              <img className="aries_img" src="/cancer.png" alt="" />
+              <p>cancer</p>
+            </div>
+            <div className="sign_container">
+              <img className="leo_img" src="/piscis.png" alt="" />
+              <p>piscis</p>
+            </div>
+          </motion.div>
+        </motion.div>
       </motion.div>
       <div className="palo__principal-div">
         <motion.div

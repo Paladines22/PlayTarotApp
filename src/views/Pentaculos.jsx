@@ -48,11 +48,12 @@ const Pentaculos = () => {
             scale: 1,
             color: "#222221",
           }}
-          className="palo__title"
+          className="palo__title margin__title"
         >
           PENTACULOS
         </motion.h1>
-        <motion.p
+        <motion.div
+          className="copas__info"
           initial={{ opacity: 0, scale: 0.5 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{
@@ -60,16 +61,42 @@ const Pentaculos = () => {
             delay: 0.5,
             ease: "easeInOut",
           }}
-          className="copas__info"
         >
-          Los pentaculos simbolizan el elemento tierra y se asocia al poder y la
-          magia de la naturaleza, la prosperidad y la seguridad. Las cartas de
-          pentaculos florecen llevando a la comprension mediante el trabajo, la
-          estabilidad y la seguridad. Representa la influencia de la magia
-          natural, las relaciones estables y la manifestacion. Simbolizan la
-          constancia y los cinco sentidos fisicos del mundo material en el que
-          existimos
-        </motion.p>
+          <motion.div className="cualidades__container">
+            <div className="cualidades__container-ent">
+              <img className="bengala__img" src="/bengala.png" alt="" />{" "}
+              <p>abundancia</p>
+            </div>
+            <div className="cualidades__container-ent">
+              <img className="bengala__img" src="/bengala.png" alt="" />
+              <p>estabilidad</p>
+            </div>
+            <div className="cualidades__container-ent">
+              <img className="bengala__img" src="/bengala.png" alt="" />
+              <p>constancia </p>
+            </div>
+          </motion.div>
+          <motion.div className="water__container">
+            <i>
+              <img className="water__icon" src="/suelo.png" alt="" />
+            </i>
+            <p>tierra</p>
+          </motion.div>
+          <motion.div className="signos__container">
+            <div className="sign_container">
+              <img className="sag_img" src="/virgo.png" alt="" />
+              <p>virgo</p>
+            </div>
+            <div className="sign_container">
+              <img className="aries_img" src="/tauro.png" alt="" />
+              <p>tauro</p>
+            </div>
+            <div className="sign_container">
+              <img className="leo_img" src="/capricornio.png" alt="" />
+              <p>capricornio </p>
+            </div>
+          </motion.div>
+        </motion.div>
       </motion.div>
       <div className="palo__principal-div">
         <motion.div
@@ -104,7 +131,7 @@ const Pentaculos = () => {
               onClick={plusIndex}
               className="card__plus-btn"
             >
-              <img  className="plus__btn" src="/adelante.png" alt="" />
+              <img className="plus__btn" src="/adelante.png" alt="" />
             </motion.i>
           </div>
           <motion.i

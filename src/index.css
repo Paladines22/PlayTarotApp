@@ -380,9 +380,9 @@ body {
 }
 .palo__title {
   font-size: 3rem;
-  padding: 2rem;
+  padding: 1rem 2rem;
   color: #222221;
-  margin: 0;
+  margin: 1rem 0;
 }
 .palo__container {
   text-align: center;
@@ -402,6 +402,7 @@ body {
 }
 .cards__img {
   max-width: 400px;
+  max-height: 600px;
   margin: 1rem 2rem;
   border-radius: 3rem;
   border: 1px solid white;
@@ -447,7 +448,8 @@ body {
 }
 @media (max-width: 885px) {
   .palo__title {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
+    padding-bottom: 0.5rem;
   }
   .palo__container {
     max-width: 80vw;
@@ -475,9 +477,12 @@ body {
 /* Copas ***/
 
 .copas__info {
-  font-size: 1.2rem;
-  margin: 5 rem;
+  font-size: 1.5rem;
+  margin: 2rem 5rem;
   line-height: 1.5;
+  display: flex;
+  gap: 3rem;
+  justify-content: space-around;
 }
 
 @media (max-width: 885px) {
@@ -523,4 +528,123 @@ body {
 .significado__btn:hover {
   cursor: pointer;
   background-color: #353550;
+}
+.fire__container {
+  display: flex;
+  flex-direction: column;
+}
+.fire__container p {
+  margin: 0;
+}
+.cualidades__container p {
+  font-size: 1.1rem;
+  margin: 0;
+  line-height: 1.6;
+  font-weight: 600;
+  text-align: start;
+}
+.signos__container {
+  display: flex;
+  gap: 2rem;
+  font-weight: 600;
+}
+.signos__container p {
+  font-size: 1rem;
+  margin: 0;
+}
+.sag_img,
+.aries_img,
+.leo_img {
+  max-width: 50px;
+}
+.cualidades__container-ent {
+  display: flex;
+}
+.description__arc-container {
+  display: flex;
+  gap: 5rem;
+  margin: 2.5rem 0;
+}
+.description__arc-container div {
+  max-width: 300px;
+}
+
+.bengala__img {
+  max-width: 20px;
+  margin-right: 1rem;
+}
+.water__container {
+  margin-top: 0.7rem;
+}
+.water__container p {
+  margin-top: 0;
+}
+.water__icon {
+  max-width: 40px;
+}
+.element__title {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.sign_container p {
+  font-size: 1.1rem;
+}
+
+@media (max-width: 600px) {
+  .cualidades__container-ent img {
+    margin: 0;
+  }
+  .cualidades__container p {
+    font-size: 1rem;
+    line-height: 1.4;
+  }
+  .copas__info {
+    gap: 1rem;
+  }
+  .signos__container {
+    gap: 0.5rem;
+  }
+  .sag_img,
+  .aries_img,
+  .leo_img {
+    max-width: 35px;
+  }
+  .water__icon {
+    max-width: 35px;
+  }
+  .sign_container p {
+    font-size: 1rem;
+  }
+  .fire__container p {
+    font-weight: 600;
+    position: relative;
+    bottom: 6px;
+  }
+  .cards__img {
+    margin-top: 2rem;
+  }
+  .water__container p {
+    font-weight: 600;
+    position: relative;
+    bottom: 12px;
+    font-size: 1rem;
+  }
+  .water__container img {
+    position: relative;
+    bottom: 8px;
+  }
+  .description__arc-container {
+    gap: 1rem;
+    margin: 0 0;
+    flex-direction: column;
+  }
+  .arc__description-div p {
+    margin: 0;
+  }
+  .card__name {
+    margin-top: 1rem;
+  }
+  .margin__title {
+    margin: 2.5rem 0;
+  }
 }

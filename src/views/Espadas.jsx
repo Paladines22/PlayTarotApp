@@ -49,11 +49,12 @@ const Espadas = () => {
             scale: 1,
             color: "#222221",
           }}
-          className="palo__title"
+          className="palo__title margin__title"
         >
           ESPADAS
         </motion.h1>
-        <motion.p
+        <motion.div
+          className="copas__info"
           initial={{ opacity: 0, scale: 0.5 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{
@@ -61,16 +62,42 @@ const Espadas = () => {
             delay: 0.5,
             ease: "easeInOut",
           }}
-          className="copas__info"
         >
-          Las espadas simbolizan el elemento aire y todas las asociaciones
-          magicas que surgen de el. Sabiduria, agilidad mental y verdad. Las
-          cartas de espadas señalan un camino inteligente hacia la comprension
-          mediante ideas avanzadas, conocimiento, discernimiento y los poderes
-          de la mente. Este palo ilustra el poder de las emociones mas oscuras,
-          la actividad mental, la inteligencia y la profecia. Los seres
-          elementales vinculados con el aire son las hadas
-        </motion.p>
+          <motion.div className="cualidades__container">
+            <div className="cualidades__container-ent">
+              <img className="bengala__img" src="/bengala.png" alt="" />{" "}
+              <p>ideas</p>
+            </div>
+            <div className="cualidades__container-ent">
+              <img className="bengala__img" src="/bengala.png" alt="" />
+              <p> conocimiento</p>
+            </div>
+            <div className="cualidades__container-ent">
+              <img className="bengala__img" src="/bengala.png" alt="" />
+              <p> comunicación </p>
+            </div>
+          </motion.div>
+          <motion.div className="water__container">
+            <i>
+              <img className="water__icon" src="/viento.png" alt="" />
+            </i>
+            <p>aire</p>
+          </motion.div>
+          <motion.div className="signos__container">
+            <div className="sign_container">
+              <img className="sag_img" src="/geminis.png" alt="" />
+              <p>geminis</p>
+            </div>
+            <div className="sign_container">
+              <img className="aries_img" src="/libra.png" alt="" />
+              <p>libra</p>
+            </div>
+            <div className="sign_container">
+              <img className="leo_img" src="/acuario.png" alt="" />
+              <p>acuario</p>
+            </div>
+          </motion.div>
+        </motion.div>
       </motion.div>
       <div className="palo__principal-div">
         <motion.div

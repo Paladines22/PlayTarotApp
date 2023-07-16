@@ -50,11 +50,11 @@ const Bastos = () => {
             scale: 1,
             color: "#222221",
           }}
-          className="palo__title"
+          className="palo__title margin__title"
         >
           BASTOS
         </motion.h1>
-        <motion.p
+        <motion.div
           className="copas__info"
           initial={{ opacity: 0, scale: 0.5 }}
           animate={{ opacity: 1, scale: 1 }}
@@ -64,12 +64,41 @@ const Bastos = () => {
             ease: "easeInOut",
           }}
         >
-          Los bastos se vinculan con el fuego, tienen que ver con el entusiasmo,
-          la confianza y la ambicion. Tambien ilustran el poder de la aventura,
-          la pasion, el entuciasmo y el deseo de crear. Se corresponde con los
-          nacidos bajo un signo zodiacal del fuego: Aries, Leo, Sagitario, son
-          los luchadores y los innovadores del mundo
-        </motion.p>
+          <motion.div className="cualidades__container">
+            <div className="cualidades__container-ent">
+              <img className="bengala__img" src="/bengala.png" alt="" />{" "}
+              <p> entusiasmo</p>
+            </div>
+            <div className="cualidades__container-ent">
+              <img className="bengala__img" src="/bengala.png" alt="" />
+              <p> confianza</p>
+            </div>
+            <div className="cualidades__container-ent">
+              <img className="bengala__img" src="/bengala.png" alt="" />
+              <p> ambición</p>
+            </div>
+          </motion.div>
+          <motion.div className="fire__container">
+            <i className="fire__icons">
+              <img src="/fire.svg" alt="" />
+            </i>
+            <p>fire</p>
+          </motion.div>
+          <motion.div className="signos__container">
+            <div className="sign_container">
+              <img className="sag_img" src="/sagitario.png" alt="" />
+              <p>sagitario</p>
+            </div>
+            <div className="sign_container">
+              <img className="aries_img" src="/aries.png" alt="" />
+              <p>aries</p>
+            </div>
+            <div className="sign_container">
+              <img className="leo_img" src="/leo.png" alt="" />
+              <p>leo</p>
+            </div>
+          </motion.div>
+        </motion.div>
       </motion.div>
       <div className="palo__principal-div">
         <motion.div
